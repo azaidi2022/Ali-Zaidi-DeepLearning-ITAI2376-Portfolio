@@ -9,12 +9,17 @@ This lab introduces reinforcement learning concepts and explores how intelligent
 - Analyze rewards, policies, and decision-making
 - Evaluate learning behavior over time
 
-## Technologies Used
+## Technologies & Concepts Used
 - Python
 - Jupyter Notebook
 - NumPy
 - Matplotlib
-- Reinforcement Learning frameworks/libraries
+- Reinforcement Learning
+- Intelligent Agents
+- Reward Systems
+- Policy-Based Learning
+- Environment Interaction
+- Decision-Making Models
 
 ## Files Included
 - `ITAI_2376_Module09_Ali_Zaidi_Lab.ipynb` — Main notebook containing implementation, outputs, and analysis
