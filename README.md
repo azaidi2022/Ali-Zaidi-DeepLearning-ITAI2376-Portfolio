@@ -90,5 +90,6 @@ Folder:
 Ali Zaidi  
 Houston Community College — Applied AI Program
 
-alizaidi2022@gmail.com
+Email: alizaidi2022@gmail.com
+
 GitHub: https://github.com/azaidi2022
