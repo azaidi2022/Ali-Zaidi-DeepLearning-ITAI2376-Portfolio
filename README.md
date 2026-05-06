@@ -1,22 +1,47 @@
 # Ali Zaidi - Deep Learning Portfolio (ITAI 2376)
 
+## About Me
+I am an Applied AI student at Houston City College with a strong interest in deep learning, generative AI, intelligent systems, and real-world AI applications. My work focuses on building practical AI projects that combine machine learning theory with hands-on implementation using Python, neural networks, and modern deep learning frameworks.
+
+Through this course, I explored foundational neural network architectures, convolutional neural networks (CNNs), diffusion models, and reinforcement learning systems. These projects strengthened my understanding of how deep learning models learn patterns, process visual data, generate synthetic outputs, and make intelligent decisions through interaction and feedback.
+
 ## About This Portfolio
-This repository showcases deep learning projects and laboratory work completed as part of the ITAI 2376 Deep Learning course at Houston Community College. The portfolio demonstrates practical experience with neural networks, convolutional neural networks (CNNs), generative AI concepts, and reinforcement learning systems using Python and modern deep learning frameworks.
+This repository showcases deep learning projects and laboratory work completed as part of the ITAI 2376 Deep Learning course (which is part of the B.A.T program) at Houston Community College. The portfolio demonstrates practical experience with neural networks, convolutional neural networks (CNNs), generative AI concepts, and reinforcement learning systems using Python and modern deep learning frameworks.
 
 ---
 
-## Technologies & Tools
+## Skills & Technologies Learned
+
+### Programming & Development
 - Python
 - Jupyter Notebook
+- Google Colab
+- GitHub
+
+### Deep Learning Frameworks
 - TensorFlow
 - Keras
 - NumPy
 - Matplotlib
-- Deep Learning Concepts
-- Neural Networks
+
+### AI & Deep Learning Concepts
+- Artificial Neural Networks (ANNs)
+- Forward & Backpropagation
+- Activation Functions
+- Model Training & Evaluation
 - Convolutional Neural Networks (CNNs)
-- Generative AI
+- Computer Vision Fundamentals
+- Diffusion Models & Generative AI
 - Reinforcement Learning
+- Intelligent Agent Systems
+
+### Technical Skills Developed
+- Deep learning workflow implementation
+- Data preprocessing and visualization
+- Neural network experimentation
+- Model evaluation and analysis
+- AI problem-solving and debugging
+- Interpreting model performance metrics
 
 ---
 
@@ -65,4 +90,5 @@ Folder:
 Ali Zaidi  
 Houston Community College — Applied AI Program
 
+alizaidi2022@gmail.com
 GitHub: https://github.com/azaidi2022
