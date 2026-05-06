@@ -25,7 +25,7 @@ This repository showcases deep learning projects and laboratory work completed a
 ### Module 02 - Neural Network Foundations
 Introduction to neural network architectures, activation functions, and deep learning fundamentals.
 
-📁 Folder:
+Folder:
 `Module-02-Neural-Network-Foundations`
 
 ---
