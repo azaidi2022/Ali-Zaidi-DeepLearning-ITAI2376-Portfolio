@@ -9,12 +9,18 @@ This lab focuses on convolutional neural networks (CNNs) and their applications 
 - Train and evaluate image classification models
 - Analyze model accuracy and performance
 
-## Technologies Used
+## Technologies & Concepts Used
 - Python
 - Jupyter Notebook
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
+- Convolutional Neural Networks (CNNs)
+- Image Classification
+- Convolution Layers
+- Pooling Layers
+- Feature Extraction
+- Deep Learning for Computer Vision
 
 ## Files Included
 - `Module_03_Lab_AliZaidi(2).ipynb` — Main notebook containing implementation, outputs, and analysis
