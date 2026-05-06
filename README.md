@@ -33,7 +33,7 @@ Introduction to neural network architectures, activation functions, and deep lea
 ### Module 03 - CNN Image Classification
 Implementation and analysis of convolutional neural networks for image classification and computer vision tasks.
 
-📁 Folder:
+Folder:
 `Module-03-CNN-Image-Classification`
 
 ---
@@ -41,7 +41,7 @@ Implementation and analysis of convolutional neural networks for image classific
 ### Module 08 - Diffusion Model
 Exploration of diffusion models and generative AI techniques involving iterative denoising and image generation concepts.
 
-📁 Folder:
+Folder:
 `Module-08-Diffusion-Model`
 
 ---
@@ -49,7 +49,7 @@ Exploration of diffusion models and generative AI techniques involving iterative
 ### Module 09 - Reinforcement Learning
 Introduction to reinforcement learning systems, intelligent agents, reward mechanisms, and decision-making models.
 
-📁 Folder:
+Folder:
 `Module-09-Reinforcement-Learning`
 
 ---
