@@ -81,7 +81,7 @@ Folder:
 
 ## Notes
 - All notebooks are included as `.ipynb` files with outputs and visualizations visible.
-- Projects were developed using Jupyter Notebook environments.
+- Projects were developed using Google Colab.
 - Public datasets used in labs are referenced within notebooks and were not uploaded to GitHub.
 
 ---
