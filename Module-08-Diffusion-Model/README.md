@@ -9,12 +9,17 @@ This lab explores diffusion models and their role in generative artificial intel
 - Analyze the process of noise addition and denoising
 - Evaluate generated outputs from deep learning models
 
-## Technologies Used
+## Technologies & Concepts Used
 - Python
 - Jupyter Notebook
 - TensorFlow / PyTorch
 - NumPy
 - Matplotlib
+- Diffusion Models
+- Generative AI
+- Noise Injection & Denoising
+- Image Generation
+- Deep Generative Modeling
 
 ## Files Included
 - `L08_Diffusion_Ali_Zaidi_ITAI_2376-2.ipynb` — Main notebook containing code, outputs, visualizations, and experimentation
