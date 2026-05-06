@@ -9,12 +9,18 @@ This lab introduces the foundational concepts of neural networks and deep learni
 - Analyze how neural networks learn from data
 - Practice implementing deep learning workflows in Python
 
-## Technologies Used
+## Technologies & Concepts Used
 - Python
 - Jupyter Notebook
 - NumPy
 - TensorFlow / Keras
 - Matplotlib
+- Artificial Neural Networks (ANNs)
+- Activation Functions
+- Forward Propagation
+- Backpropagation
+- Dense Neural Network Layers
+- Model Training & Loss Analysis
 
 ## Files Included
 - `Module_02_Lab_Ali_Zaidi.ipynb` — Main lab notebook containing code, outputs, visualizations, and explanations
